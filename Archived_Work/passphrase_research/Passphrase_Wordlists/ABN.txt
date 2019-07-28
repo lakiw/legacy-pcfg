@@ -1,0 +1,4 @@
+many
+all
+nary
+half
